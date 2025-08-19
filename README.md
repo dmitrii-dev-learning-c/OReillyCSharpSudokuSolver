@@ -33,6 +33,7 @@ This significantly reduces possibilities and helps solve harder puzzles.
 - This strategy is especially useful for medium-to-hard puzzles.
 
 ### Example:
+<img width="151" height="463" alt="image" src="https://github.com/user-attachments/assets/23960554-076d-42af-84a4-870e3e19b219" />
 
 
 
