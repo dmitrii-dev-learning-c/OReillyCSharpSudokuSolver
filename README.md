@@ -32,10 +32,13 @@ This significantly reduces possibilities and helps solve harder puzzles.
 
 - This strategy is especially useful for medium-to-hard puzzles.
 
-### ✅ Summary
+### Example:
 
-SimpleMarkupStrategy → Finds possible candidates for each cell.
+What we supply it with:
+<img width="266" height="318" alt="image" src="https://github.com/user-attachments/assets/a257e78b-da26-4ae0-9f20-2290729eb014" />
 
-NakedPairsStrategy → Eliminates possibilities using the Naked Pairs rule.
+Result:
+<img width="152" height="234" alt="image" src="https://github.com/user-attachments/assets/d62c01ed-1279-420d-b30a-68665cdde020" />
 
-Together, these strategies allow the solver to handle a wide range of Sudoku puzzles efficiently.
+
+
