@@ -33,6 +33,8 @@ This significantly reduces possibilities and helps solve harder puzzles.
 - This strategy is especially useful for medium-to-hard puzzles.
 
 ### Example:
+- We supply it with the location of the puzzle stored in the text file and get back a solved sudoku
+
 <img width="151" height="463" alt="image" src="https://github.com/user-attachments/assets/23960554-076d-42af-84a4-870e3e19b219" />
 
 
